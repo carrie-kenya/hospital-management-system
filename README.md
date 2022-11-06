@@ -21,12 +21,13 @@ The projected was developed by
 3. Clone the site
 ```git clone https://github.com/carrie-kenya/hospital-management-system.git```
 4. Navigate into the cloned site ```cd hospital-management-system```
-5. Create a virtual environment ```python -m venv virtual```
-6. Activate your virtual environment
-```source virtual/Scripts/activate```
-7. Install system dependencies
+5. Open your visual studio code ```code .```
+6. Create a virtual environment ```python -m venv virtual```
+7. Activate your virtual environment
+```./virtual/Scripts/activate```
+8. Install system dependencies
 ```pip install -r requirements.txt```
-8. Run the application
+9. Run the application
 ``` python .\manage.py runserver```
 
 ### Creating a new superuser
