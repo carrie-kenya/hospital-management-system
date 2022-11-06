@@ -41,5 +41,22 @@ The are no identified bugs avaialable in the system.
 #### Home 
 ![home](https://user-images.githubusercontent.com/114252026/200177837-a55b4e8d-1534-4a77-b035-70389412e971.png)
 
+#### Patients List
+![patients](https://user-images.githubusercontent.com/114252026/200177979-ec8168bc-7760-412b-b21a-b69175cb047a.png)
+
 #### Admin Login
 ![login](https://user-images.githubusercontent.com/114252026/200177881-44a49ce6-da01-4d4b-80c1-b119cc6c9573.png)
+
+#### Admin Overview
+![admin-overview](https://user-images.githubusercontent.com/114252026/200178041-ff0f52ff-c435-461c-8c37-c37fe470ec78.png)
+
+#### Add User
+![add-user](https://user-images.githubusercontent.com/114252026/200177926-e5e13716-2bac-4e10-bdf2-311d7d3b6cea.png)
+
+#### Users Overview 
+![users-overview](https://user-images.githubusercontent.com/114252026/200177956-c38418fb-bc33-491f-987b-9e7af03b6ec7.png)
+
+#### Add Patient
+![add-user](https://user-images.githubusercontent.com/114252026/200178027-2b6918a7-f2ce-40f2-9585-8cc4c0cafa0c.png)
+
+
