@@ -36,3 +36,10 @@ Run ```python manage.py createsuperuser```
 
 ## Identified system bugs
 The are no identified bugs avaialable in the system.
+
+## System Screenshots
+#### Home 
+![home](https://user-images.githubusercontent.com/114252026/200177837-a55b4e8d-1534-4a77-b035-70389412e971.png)
+
+#### Admin Login
+![login](https://user-images.githubusercontent.com/114252026/200177881-44a49ce6-da01-4d4b-80c1-b119cc6c9573.png)
