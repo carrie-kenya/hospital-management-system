@@ -32,7 +32,6 @@ The projected was developed by
 
 ### Creating a new superuser
 Run ```python manage.py createsuperuser```
-![add-patient](https://user-images.githubusercontent.com/114252026/200742291-afd47f6d-a559-4dc1-b10d-41300c40a51b.png)
 
 
 ## Identified system bugs
