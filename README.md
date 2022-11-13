@@ -56,11 +56,11 @@ The are no identified bugs avaialable in the system.
 #### Users Overview 
 ![users-overview](https://user-images.githubusercontent.com/114252026/200177956-c38418fb-bc33-491f-987b-9e7af03b6ec7.png)
 
-#### Add user
-![add-user](https://user-images.githubusercontent.com/114252026/200178027-2b6918a7-f2ce-40f2-9585-8cc4c0cafa0c.png)
-
 #### Add patient
 ![add-patient](https://user-images.githubusercontent.com/114252026/201536146-e50d17af-6eb3-4a85-bfac-2c87c03d8d9e.png)
+
+#### patient overview
+![patients](https://user-images.githubusercontent.com/114252026/201536304-d949ebb1-8ee0-43a5-9b87-78fb50aa684b.png)
 
 
 
